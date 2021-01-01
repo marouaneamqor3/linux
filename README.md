@@ -1,13 +1,13 @@
-# linux
+# linux / Ubuntu / Debian
 
-To install bind9 
+#To install bind9 
  run : 
-# sudo bash bind9 
+ `sudo bash bind9` 
 
-To install php7.0
+#To install php7.0
  run : 
-# sudo bash install-php7.0.sh
+ `sudo bash install-php7.0.sh`
 
-To install php7.2
+#To install php7.2
  run : 
-# sudo bash install-php7.2.sh
+ `sudo bash install-php7.2.sh`
