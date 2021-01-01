@@ -1,4 +1,4 @@
-sudo apt-get update && apt-get install bind9 bind9utils bind9-doc dnsutils -y
+sudo apt-get update && sudo apt upgrade && apt-get install bind9 bind9utils bind9-doc dnsutils -y
 
 echo "enabling BIND to IPv4 mode "
 sleep 2s
